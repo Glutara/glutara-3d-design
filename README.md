@@ -31,10 +31,11 @@ Your digital innovation hub: The virtual playground for Glutara's revolutionary 
 </div>
 
 ## ⌚ &nbsp;Videos
-<video width="full" height="240" controls autoplay>
-  <source src="https://drive.google.com/file/d/1TJcsTeZoeoRFpjLxvfV60kSbrf0sjmCh/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo 1](assets/glutara-demo1.gif)
+> Glutara's platform (mobile and hardware).
+
+![Demo 2](assets/glutara-demo2.gif)
+> Final 3D design implementation
 
 ## 👥 &nbsp;Contributors
 
