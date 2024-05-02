@@ -30,11 +30,11 @@ Your digital innovation hub: The virtual playground for Glutara's revolutionary 
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F3d-design%2FDesign%2013.png?alt=media&token=2cdac316-c61f-4cbb-94f2-17fcfc1fa043"/>
 </div>
 
-## ⌚ &nbsp;Videos
-![Demo 1](assets/glutara-demo1.gif)
+## 🎥 &nbsp;Videos
+![Demo 1](https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F3d-design%2Fglutara-demo1.gif?alt=media&token=9cdf051b-82aa-47fd-88aa-759c6c0023cc)
 > Glutara's platform (mobile and hardware).
 
-![Demo 2](assets/glutara-demo2.gif)
+![Demo 2](https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F3d-design%2Fglutara-demo2.gif?alt=media&token=7f2526f7-bb25-42c8-b46d-12836e72d12d)
 > Final 3D design implementation
 
 ## 👥 &nbsp;Contributors
