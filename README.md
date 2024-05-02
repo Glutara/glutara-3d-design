@@ -30,6 +30,12 @@ Your digital innovation hub: The virtual playground for Glutara's revolutionary 
 <img src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2F3d-design%2FDesign%2013.png?alt=media&token=2cdac316-c61f-4cbb-94f2-17fcfc1fa043"/>
 </div>
 
+## ⌚ &nbsp;Videos
+<video width="full" height="240" controls autoplay>
+  <source src="https://drive.google.com/file/d/1TJcsTeZoeoRFpjLxvfV60kSbrf0sjmCh/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 👥 &nbsp;Contributors
 
 | <a href="https://github.com/mikeleo03"><img width="180px" height="180px" src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Fpicprof%2FLeon.png?alt=media&token=0ea1884a-32ca-471b-a3af-bf3995bbc605" alt=""/></a> | <a href="https://github.com/GoDillonAudris512"><img width="180px" height="180px" src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Fpicprof%2FDillon.png?alt=media&token=bc76cc6b-5606-4351-8472-9c243c8b9da3" alt=""/></a> | <a href="https://github.com/margarethaolivia"><img width="180px" height="180px" src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Fpicprof%2FOlivia.png?alt=media&token=d53f9cfd-e1e1-41b6-a28c-440904df29b8" alt=""/></a> | <a href="https://github.com/AustinPardosi"><img width="180px" height="180px" src="https://firebasestorage.googleapis.com/v0/b/upheld-acumen-420202.appspot.com/o/readme-assets%2Fpicprof%2FAustin.png?alt=media&token=f520a334-4aeb-4efe-9437-669451b6dca6" alt=""/></a> |
